@@ -1,4 +1,7 @@
-# Hey, I'm Harsh Sanchaniya 👋
+<p align="center">
+  <img src="github-banner.png" alt="Harsh Sanchaniya - Data Analyst and Aspiring AI Engineer" width="100%">
+</p>#
+Hey, I'm Harsh Sanchaniya 👋
 
 ### MSc Data Science Student | Aspiring Data Analyst & AI Engineer
 
