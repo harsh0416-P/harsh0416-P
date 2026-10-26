@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./Data%20Science%20AI%20Engineering%20Banner.png" alt="Harsh Sanchaniya — Data Analyst and Aspiring AI Engineer" width="100%">
+  <img src="./github-banner.png" alt="Harsh Sanchaniya — Data Analytics and AI Engineering" width="100%">
 </p>
-# Hi, I'm Harsh Sanchaniya 👋
 
+# Hi, I'm Harsh Sanchaniya 👋
 ### MSc Data Science Student | Aspiring Data Analyst & AI Engineer
 
 I'm passionate about turning data into meaningful insights and building intelligent applications. I'm currently strengthening my skills in Python, SQL, data analytics, and AI through hands-on projects and internship tasks.
