@@ -1,128 +1,92 @@
 <p align="center">
   <img src="./Data%20Science%20AI%20Engineering%20Banner.png" alt="Harsh Sanchaniya — Data Analyst and Aspiring AI Engineer" width="100%">
 </p>
-# Hey, I'm Harsh Sanchaniya 👋
+# Hi, I'm Harsh Sanchaniya 👋
 
 ### MSc Data Science Student | Aspiring Data Analyst & AI Engineer
 
-Welcome to my GitHub profile! I'm an MSc Data Science student at REVA University, Bengaluru, passionate about data analytics, machine learning, and building intelligent applications. I enjoy learning through hands-on projects, solving practical problems, and transforming data into meaningful insights.
-
-- 🎓 Pursuing MSc Data Science at REVA University, Bengaluru
-- 📊 Developing skills in data analytics, SQL, Python, and business intelligence
-- 🤖 Exploring machine learning, AI engineering, and AI agents
-- 💻 Building practical projects and documenting my learning journey
-- 🌱 Continuously improving my technical and problem-solving skills
-- 🎯 Career goal: Build real-world data-driven and AI-powered solutions
+I'm passionate about turning data into meaningful insights and building intelligent applications. I'm currently strengthening my skills in Python, SQL, data analytics, and AI through hands-on projects and internship tasks.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🚀 About Me
 
-### Programming Languages
-- Python
-- SQL
-- JavaScript
-- HTML and CSS
-
-### Data Analytics & Data Science
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Exploratory Data Analysis (EDA)
-- Data Cleaning and Preprocessing
-- Statistical Analysis
-- Data Visualisation
-
-### Business Intelligence & Reporting
-- Microsoft Power BI
-- DAX Fundamentals
-- Microsoft Excel
-- Looker Studio
-- KPI Design and Reporting
-
-### Databases & Development Tools
-- MySQL
-- Git and GitHub
-- Visual Studio Code
-- Jupyter Notebook
-- Python Virtual Environments
-
-### Currently Learning
-- Advanced statistics and probability
-- Machine learning
-- AI engineering
-- AI agents and intelligent automation
+- 🎓 Pursuing an MSc in Data Science at REVA University, Bengaluru
+- 📊 Learning data analysis, exploratory data analysis (EDA), and data visualization
+- 🤖 Exploring AI tools, Large Language Models (LLMs), and AI agents
+- 💻 Building practical projects with Python, SQL, Pandas, and machine learning tools
+- 🌱 Focused on continuous learning and real-world problem solving
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 📊 Cynaris Data Analyst Internship
+**Programming:** Python, SQL, JavaScript, HTML, CSS
 
-A practical learning portfolio covering SQL, Python, data preparation, visualisation, business intelligence, statistics, and end-to-end data analysis.
+**Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Excel
 
-**Topics covered:**
-- SQL queries, joins, aggregations, subqueries, and CTEs
-- Python and Pandas for data manipulation
-- Data cleaning, EDA, and visualisation
-- Power BI, DAX, Excel, and Looker Studio
-- Statistics, probability, regression, and hypothesis testing
-- Sales analysis capstone and business recommendations
+**Data Visualization & EDA:** AutoViz, SweetViz, Power BI
 
-🔗 [View Cynaris Internship Repository](https://github.com/harsh0416-P/cynaris-internship-Harsh)
+**AI & Machine Learning:** PandasAI, LLMs, introductory AI/ML concepts
 
-### 🧑‍💻 Student Attendance Monitoring System
+**Databases:** MySQL, MongoDB
 
-A project focused on monitoring student attendance using face recognition.
-
-**Project focus:**
-- Face recognition concepts
-- Attendance record management
-- Application development and problem-solving
-
-🔗 [View Attendance Monitoring System](https://github.com/harsh0416-P/attendance-monitoring-system)
-
-### 🌐 Personal Portfolio Website
-
-A personal portfolio website built to showcase my projects, technical skills, and development journey.
-
-🔗 [View Portfolio Repository](https://github.com/harsh0416-P/Harsh_Portfolio)
-
-🌍 [Visit My Portfolio Website](https://harsh-portfolio-sigma-bay.vercel.app/)
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
-## 📈 Current Learning Journey
+## 📂 Featured Projects
 
-I'm strengthening my foundation in data science and preparing to build more advanced projects.
+### 1. Indian Air Quality — Automated EDA
+- Explored an Indian air-quality dataset containing 3,752 rows and 11 columns.
+- Generated automated exploratory data analysis reports using AutoViz and SweetViz.
+- Investigated missing values, numerical distributions, and relationships between variables.
+- Practised documenting data-quality findings and comparing EDA tools.
 
-- [x] SQL fundamentals and joins
-- [x] Python data analysis fundamentals
-- [x] Data cleaning and visualisation practice
-- [x] Statistics, probability, and regression practice
-- [x] Sales analysis capstone development
-- [ ] Build and publish a complete interactive analytics dashboard
-- [ ] Develop a machine learning project
-- [ ] Build a practical AI agent
-- [ ] Deploy an AI-powered application
+**Technologies:** Python, Pandas, AutoViz, SweetViz
 
-*Progress checkboxes reflect my learning journey and will be updated as projects are completed.*
+### 2. PandasAI — Natural Language Data Analysis
+- Experimented with querying DataFrames using natural-language questions.
+- Compared AI-assisted analysis with manual Pandas calculations.
+- Implemented error handling and logging for unsuccessful AI-generated queries.
+
+**Technologies:** Python, Pandas, PandasAI, Ollama, Llama 3.2
+
+### 3. Student Attendance Monitoring System
+- Developed a student attendance monitoring project using face recognition.
+
+**Technologies:** Python, Face Recognition
+
+### 4. SkyGuardian AI
+- Built an environmental analysis dashboard for the NASA Space Apps Challenge.
+- Explored air-quality analysis and AQI prediction.
+
+**Technologies:** Python, Streamlit, Data Visualization
 
 ---
 
-## 🎯 Career Goals
+## 📚 Currently Learning
 
-- Become a skilled Data Analyst with strong SQL and Python capabilities.
-- Build end-to-end analytical projects that answer real business questions.
-- Communicate insights through clear reports and dashboards.
-- Strengthen my machine learning and statistical foundations.
-- Develop practical AI applications and intelligent agents.
-- Contribute to projects that solve real-world problems.
+- Advanced SQL and data analysis
+- Python for data science
+- Statistics and exploratory data analysis
+- Machine learning fundamentals
+- Generative AI and AI agents
+- Data quality and automated reporting
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become an AI Engineer who combines strong data-analysis fundamentals with practical machine learning and AI application development.
 
 ---
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [@harsh0416-P](https://github.com/harsh0416-P)
-- **Portfolio:**
+- **GitHub:** [harsh0416-P](https://github.com/harsh0416-P)
+- **LinkedIn:** Add your LinkedIn profile URL here
+
+---
+
+*Learning by building. Improving through practice. Growing with every project.* 🚀
