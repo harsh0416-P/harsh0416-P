@@ -85,7 +85,7 @@ My goal is to become an AI Engineer who combines strong data-analysis fundamenta
 ## 🤝 Connect With Me
 
 - **GitHub:** [harsh0416-P](https://github.com/harsh0416-P)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** https://www.linkedin.com/in/harsh-sanchaniya-10310b3a2/?isSelfProfile=true
 
 ---
 
