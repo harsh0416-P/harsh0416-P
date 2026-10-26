@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./github-banner.png" alt="Harsh Sanchaniya — Data Analytics and AI Engineering" width="100%">
+  <img src="./banner-v2.png" alt="Harsh Sanchaniya — Data Analytics and AI Engineering" width="100%">
 </p>
-
 # Hi, I'm Harsh Sanchaniya 👋
 ### MSc Data Science Student | Aspiring Data Analyst & AI Engineer
 
