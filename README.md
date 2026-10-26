@@ -1,7 +1,7 @@
-<<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0416-P/harsh0416-P/main/banner-v2.png" alt="Harsh Sanchaniya — Data Analytics and AI Engineering" width="100%">
-</p>
+![Harsh Sanchaniya - Data Analytics and AI Engineering](https://raw.githubusercontent.com/harsh0416-P/harsh0416-P/main/banner-v2.png)
+
 # Hi, I'm Harsh Sanchaniya 👋
+
 ### MSc Data Science Student | Aspiring Data Analyst & AI Engineer
 
 I'm passionate about turning data into meaningful insights and building intelligent applications. I'm currently strengthening my skills in Python, SQL, data analytics, and AI through hands-on projects and internship tasks.
@@ -20,47 +20,41 @@ I'm passionate about turning data into meaningful insights and building intellig
 
 ## 🛠️ Tech Stack
 
-**Programming:** Python, SQL, JavaScript, HTML, CSS
-
-**Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Excel
-
-**Data Visualization & EDA:** AutoViz, SweetViz, Power BI
-
-**AI & Machine Learning:** PandasAI, LLMs, introductory AI/ML concepts
-
-**Databases:** MySQL, MongoDB
-
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook
+- **Programming:** Python, SQL, JavaScript, HTML, CSS
+- **Data Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Excel
+- **Data Visualization & EDA:** AutoViz, SweetViz, Power BI
+- **AI & Machine Learning:** PandasAI, LLMs, introductory AI/ML concepts
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ---
 
 ## 📂 Featured Projects
 
 ### 1. Indian Air Quality — Automated EDA
-- Explored an Indian air-quality dataset containing 3,752 rows and 11 columns.
-- Generated automated exploratory data analysis reports using AutoViz and SweetViz.
-- Investigated missing values, numerical distributions, and relationships between variables.
-- Practised documenting data-quality findings and comparing EDA tools.
 
-**Technologies:** Python, Pandas, AutoViz, SweetViz
+- Explored an Indian air-quality dataset containing 3,752 rows and 11 columns.
+- Generated automated EDA reports using AutoViz and SweetViz.
+- Investigated missing values, numerical distributions, and relationships between variables.
+- **Technologies:** Python, Pandas, AutoViz, SweetViz
 
 ### 2. PandasAI — Natural Language Data Analysis
-- Experimented with querying DataFrames using natural-language questions.
-- Compared AI-assisted analysis with manual Pandas calculations.
-- Implemented error handling and logging for unsuccessful AI-generated queries.
 
-**Technologies:** Python, Pandas, PandasAI, Ollama, Llama 3.2
+- Queried DataFrames using natural-language questions.
+- Compared AI-assisted analysis with manual Pandas calculations.
+- Implemented error handling and logging for failed AI-generated queries.
+- **Technologies:** Python, Pandas, PandasAI, Ollama, Llama 3.2
 
 ### 3. Student Attendance Monitoring System
-- Developed a student attendance monitoring project using face recognition.
 
-**Technologies:** Python, Face Recognition
+- Developed an attendance monitoring project using face recognition.
+- **Technologies:** Python, Face Recognition
 
 ### 4. SkyGuardian AI
+
 - Built an environmental analysis dashboard for the NASA Space Apps Challenge.
 - Explored air-quality analysis and AQI prediction.
-
-**Technologies:** Python, Streamlit, Data Visualization
+- **Technologies:** Python, Streamlit, Data Visualization
 
 ---
 
@@ -84,8 +78,6 @@ My goal is to become an AI Engineer who combines strong data-analysis fundamenta
 ## 🤝 Connect With Me
 
 - **GitHub:** [harsh0416-P](https://github.com/harsh0416-P)
-- **LinkedIn:** https://www.linkedin.com/in/harsh-sanchaniya-10310b3a2/?isSelfProfile=true
-
----
+- **LinkedIn:** [Harsh Sanchaniya](https://www.linkedin.com/in/harsh-sanchaniya-10310b3a2/)
 
 *Learning by building. Improving through practice. Growing with every project.* 🚀
