@@ -1,4 +1,4 @@
-![Harsh Sanchaniya Banner](https://raw.githubusercontent.com/harsh0416-P/harsh0416-P/main/banner-v2.png)
+![Harsh Sanchaniya Banner](https://raw.githubusercontent.com/harsh0416-P/harsh0416-P/main/Data%20Science%20AI%20Engineering%20Banner.png)
 
 # Hi, I'm Harsh Sanchaniya 👋
 
