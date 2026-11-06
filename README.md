@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harsh Sanchaniya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Aspiring+Data+Analyst;AI+Engineer+in+the+making;Learning+by+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+Data+Analyst;Data+Analytics+Intern;AI+Engineer+in+the+making;Learning+by+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
