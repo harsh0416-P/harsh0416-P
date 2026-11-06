@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>MSc Data Science Student | Aspiring Data Analyst & AI Engineer</b>
+  <b>MSc Data Science Student | Data Analytics Intern | Aspiring AI Engineer</b>
 </p>
 
 <p align="center">
@@ -26,12 +26,12 @@
   </a>
 </p>
 
-I'm passionate about turning data into meaningful insights and building intelligent applications. I completed a 7-week Data Analyst internship at Cynaris Solutions and I'm continuing to build my skills in Python, SQL, data analytics, and AI through hands-on projects.
+I'm passionate about turning data into meaningful insights and building intelligent applications. I'm currently doing a Data Analytics internship at Cynaris Solutions and building my skills in Python, SQL, data analytics, and AI through hands-on projects.
 
 ## 🚀 About Me
 
 - 🎓 Pursuing an MSc in Data Science at REVA University, Bengaluru
-- 🏢 Completed a Data Analyst internship at Cynaris Solutions (SQL, Python, Power BI, AI-powered analytics)
+- 🏢 Data Analytics Intern at Cynaris Solutions (SQL, Python, Power BI, AI-powered analytics)
 - 📊 Learning data analysis, exploratory data analysis (EDA), and data visualization
 - 🤖 Exploring AI tools, Large Language Models (LLMs), and AI agents
 - 🌱 Focused on continuous learning and real-world problem solving
@@ -44,34 +44,24 @@ I'm passionate about turning data into meaningful insights and building intellig
 
 - **Languages:** Python, SQL
 - **Data Analytics:** Pandas, NumPy, Polars, DuckDB, Excel
-- **Visualization & EDA:** Matplotlib, Seaborn, AutoViz, SweetViz, ydata-profiling, Power BI
-- **AI-Assisted Analytics:** PandasAI, Vanna (natural-language-to-SQL), LLMs
-- **Databases:** SQLite, MySQL, MongoDB
+- **Visualization & BI:** Matplotlib, Seaborn, Power BI, Looker Studio, Apache Superset
+- **Automated EDA & Quality:** AutoViz, SweetViz, ydata-profiling, Great Expectations
+- **AI-Assisted Analytics:** PandasAI, Vanna (natural-language-to-SQL), Ollama, LLMs
+- **Databases & APIs:** SQLite, MySQL, MongoDB, FastAPI
 
-## 🏢 Cynaris Solutions – Data Analyst Internship
+## 🏢 Cynaris Solutions – Data Analytics Internship
 
-A 7-week, project-based internship. Full portfolio and code: [cynaris-internship-Harsh](https://github.com/harsh0416-P/cynaris-internship-Harsh)
+A 3-month, project-based internship (currently in Week 7). Full portfolio and code: [cynaris-internship-Harsh](https://github.com/harsh0416-P/cynaris-internship-Harsh)
 
-**Week 1 – SQL Fundamentals**
-Practised SQL queries with SELECT and WHERE filtering, created SQL files, and exported query results to CSV.
-
-**Week 2 – Python for Data Analysis**
-Used Pandas, NumPy, Matplotlib and Seaborn for data cleaning, missing-value handling, exploratory data analysis, visualization and data-quality comparisons.
-
-**Week 3 – Power BI Dashboard**
-Built an interactive sales dashboard in Power BI from a sales dataset.
-
-**Week 4 – Data Analysis Capstone**
-Analysed a sales dataset and built practical analytical deliverables, including regression analysis.
-
-**Week 5 – Advanced Data Analytics**
-Worked with PandasAI, AutoViz and SweetViz, and benchmarked five analytical operations across Pandas, Polars and DuckDB on a 100,000-row sales dataset, validating that the results matched.
-
-**Week 6 – AI-Powered Analytics**
-Built a Vanna natural-language-to-SQL project on SQLite: created the database, connected it to the application, ran plain-English questions as SQL, verified database operations and exported results.
-
-**Week 7 – Automated EDA (CIA Auto EDA)**
-Used ydata-profiling and SweetViz on a 9,800-row, 18-column sales dataset to generate two HTML reports, with automation scripts, validation scripts and documentation.
+| Week | Focus | What I did |
+|---|---|---|
+| 1 | SQL Fundamentals | SELECT, WHERE, JOINs, GROUP BY, subqueries and CTEs; SQL files and CSV exports |
+| 2 | Python for Data Analytics | Data visualization, data cleaning, NumPy, data governance and quality checks |
+| 3 | Business Intelligence | Power BI, DAX basics, Excel analysis, Looker Studio, KPI design |
+| 4 | Statistics & Predictive Analytics | Descriptive statistics, probability, regression, hypothesis testing, capstone |
+| 5 | Advanced Analytics & AI Tools | PandasAI, AutoViz, SweetViz, DuckDB, Polars; Pandas vs Polars vs DuckDB benchmark (100,000 rows, 5 operations) |
+| 6 | AI-Powered Analytics | Vanna + Ollama + FastAPI natural-language-to-SQL, Vanna training, Superset, executive reporting, NL-SQL dashboard |
+| 7 | PandasAI & Automated EDA | PandasAI on a 9,800-row sales dataset; CIA Auto EDA with ydata-profiling and SweetViz (two HTML reports, automation and validation scripts) |
 
 ## 📂 Other Projects
 
