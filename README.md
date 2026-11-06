@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner-v2.png" alt="Harsh Sanchaniya Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Harsh Sanchaniya 👋</h1>
 
 <p align="center">
@@ -9,7 +5,19 @@
 </p>
 
 <p align="center">
+  <b>MSc Data Science Student | Aspiring Data Analyst & AI Engineer</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MSc-Data%20Science-blueviolet?style=for-the-badge" alt="MSc Data Science" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsh0416-P&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/harsh0416-P?style=flat&logo=github" alt="Followers" />
 </p>
 
 I'm passionate about turning data into meaningful insights and building intelligent applications. I'm currently strengthening my skills in Python, SQL, data analytics, and AI through hands-on projects and internship tasks.
@@ -34,23 +42,27 @@ I'm passionate about turning data into meaningful insights and building intellig
 
 ## 📂 Featured Projects
 
-### 1. Indian Air Quality — Automated EDA
+### 🏢 [Cynaris Data Analytics Internship](https://github.com/harsh0416-P/cynaris-internship-Harsh)
+- A 3-month internship portfolio covering Python, SQL, data science, data visualization, business intelligence, and AI-powered analytics.
+- **Technologies:** Python, SQL, Power BI
+
+### 🌫️ Indian Air Quality — Automated EDA
 - Explored an Indian air-quality dataset containing 3,752 rows and 11 columns.
 - Generated automated EDA reports using AutoViz and SweetViz.
 - Investigated missing values, numerical distributions, and relationships between variables.
 - **Technologies:** Python, Pandas, AutoViz, SweetViz
 
-### 2. PandasAI — Natural Language Data Analysis
+### 💬 PandasAI — Natural Language Data Analysis
 - Queried DataFrames using natural-language questions.
 - Compared AI-assisted analysis with manual Pandas calculations.
 - Implemented error handling and logging for failed AI-generated queries.
 - **Technologies:** Python, Pandas, PandasAI, Ollama, Llama 3.2
 
-### 3. Student Attendance Monitoring System
+### 🎓 Student Attendance Monitoring System
 - Developed an attendance monitoring project using face recognition.
 - **Technologies:** Python, Face Recognition
 
-### 4. SkyGuardian AI
+### 🛰️ SkyGuardian AI
 - Built an environmental analysis dashboard for the NASA Space Apps Challenge.
 - Explored air-quality analysis and AQI prediction.
 - **Technologies:** Python, Streamlit, Data Visualization
@@ -68,18 +80,11 @@ I'm passionate about turning data into meaningful insights and building intellig
 
 My goal is to become an AI Engineer who combines strong data-analysis fundamentals with practical machine learning and AI application development.
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh0416-P&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0416-P&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
-</p>
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harsh0416-P&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harsh0416-P/harsh0416-P/output/github-snake-dark.svg" />
@@ -91,4 +96,4 @@ My goal is to become an AI Engineer who combines strong data-analysis fundamenta
 - GitHub: [harsh0416-P](https://github.com/harsh0416-P)
 - LinkedIn: Harsh Sanchaniya
 
-*Learning by building. Improving through practice. Growing with every project.* 🚀
+<p align="center"><i>Learning by building. Improving through practice. Growing with every project.</i> 🚀</p>
