@@ -20,6 +20,12 @@
   <img src="https://img.shields.io/github/followers/harsh0416-P?style=flat&logo=github" alt="Followers" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-sanchaniya-10310b3a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 I'm passionate about turning data into meaningful insights and building intelligent applications. I'm currently strengthening my skills in Python, SQL, data analytics, and AI through hands-on projects and internship tasks.
 
 ## 🚀 About Me
@@ -94,6 +100,6 @@ My goal is to become an AI Engineer who combines strong data-analysis fundamenta
 ## 🤝 Connect With Me
 
 - GitHub: [harsh0416-P](https://github.com/harsh0416-P)
-- LinkedIn: Harsh Sanchaniya
+- LinkedIn: [Harsh Sanchaniya](https://www.linkedin.com/in/harsh-sanchaniya-10310b3a2/)
 
 <p align="center"><i>Learning by building. Improving through practice. Growing with every project.</i> 🚀</p>
