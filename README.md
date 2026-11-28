@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Hi,%20I'm%20Harsh%20Sanchaniya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20AI&descAlignY=58&descSize=18" alt="Harsh Sanchaniya banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F1D1D,50:DC2626,100:F87171&height=210&section=header&text=Hi,%20I'm%20Harsh%20Sanchaniya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20AI&descAlignY=58&descSize=18" alt="Harsh Sanchaniya banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+Data+Analyst;Data+Analytics+Intern;AI+Engineer+in+the+making;Learning+by+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=EF4444&center=true&vCenter=true&width=700&lines=Data+Science+Student;Aspiring+Data+Analyst;Data+Analytics+Intern;AI+Engineer+in+the+making;Learning+by+building" alt="Typing SVG" />
 
 <b>MSc Data Science Student | Data Analytics Intern | Aspiring AI Engineer</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MSc-Data%20Science-blueviolet?style=for-the-badge" alt="MSc Data Science" />
+<img src="https://img.shields.io/badge/MSc-Data%20Science-DC2626?style=for-the-badge&labelColor=14080A" alt="MSc Data Science" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=harsh0416-P&color=blueviolet&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/harsh0416-P?style=flat&logo=github" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=harsh0416-P&color=DC2626&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/harsh0416-P?style=flat&logo=github&color=DC2626&labelColor=14080A" alt="Followers" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/harsh-sanchaniya-10310b3a2/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14080A" alt="LinkedIn" />
 </a>
 <a href="https://github.com/harsh0416-P/cynaris-internship-Harsh">
-  <img src="https://img.shields.io/badge/Internship%20Portfolio-View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Internship portfolio" />
+  <img src="https://img.shields.io/badge/Internship%20Portfolio-View%20Repo-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=14080A" alt="Internship portfolio" />
 </a>
 
 <br><br>
@@ -49,7 +49,7 @@ I enjoy working with data, building analytical solutions, exploring AI-powered a
 
 My long-term goal is to become an AI Engineer who can combine data science fundamentals with intelligent application development.
 
-> [!NOTE]
+> [!CAUTION]
 > **Currently:** Data Analytics Intern at Cynaris Solutions, working across analytics, forecasting and AI-powered reporting, while building towards AI Engineering.
 
 | | |
@@ -193,7 +193,7 @@ My goal is to become an AI Engineer who builds on strong foundations in data ana
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=harsh0416-P&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=harsh0416-P&background=14080A&ring=DC2626&fire=EF4444&currStreakNum=FFFFFF&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=F87171&dates=FCA5A5&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -211,6 +211,6 @@ My goal is to become an AI Engineer who builds on strong foundations in data ana
 
 <i>Learning by building. Improving through practice. Growing with every project.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F87171,50:DC2626,100:7F1D1D&height=120&section=footer" alt="Footer wave" width="100%" />
 
 </div>
